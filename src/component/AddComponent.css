@@ -1,0 +1,25 @@
+.addFormContainer {
+  /* background-color: aqua; */
+  width: 60%;
+  min-height: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.addProductUploadBtlLabel{  
+  background-color: rgb(166, 165, 167);
+  color: white;
+  font-family: sans-serif;
+  border-radius: 0.3rem;
+  cursor: pointer;
+  margin: 40px;
+  padding: 100px;
+  position: absolute;
+  /* width: 200px;
+  height: 200px; */
+
+}
